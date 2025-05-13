@@ -21,5 +21,6 @@ class Program
         {
             Console.WriteLine(g);
         }
+        //Stukalenko yaroslav KP-41
     }
 }
